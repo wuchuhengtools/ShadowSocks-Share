@@ -105,9 +105,3 @@ free-ss 代理 | PROXY_FREE-SS_SOCKS | proxy.free-ss.socks | boolean | false | �
 > **注意：**
 > - Heroku 免费资源，内存太少，限制太多，造成部分网站账号抓取失败，推荐本地运行项目。
 > - 为避免爬虫太多对源站点产生影响及账号安全。**本站提供的服务能够满足需求时，请避免自行部署项目。**
-
-
-## TO DO
-
-1. 计划支持下列站点：
-    1. https://github.com/max2max/freess/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7
